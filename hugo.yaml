@@ -1,0 +1,10 @@
+baseURL: ''
+languageCode: en-us
+title: My Finnish notes
+theme: "PaperMod"
+
+params:
+   defaultTheme: auto
+   homeInfoParams:
+     Title: "Yu's Finnish Notes"
+     Content: "Documenting my notes through my Finnish learning jorney."

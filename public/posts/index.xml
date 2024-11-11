@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on My Finnish notes</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on My Finnish notes</description>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Nov 2024 00:07:56 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Suomen Mestari 1 Kap 1.1</title>
+      <link>//localhost:1313/posts/suomen-mestari-1-kap-1.1/</link>
+      <pubDate>Tue, 12 Nov 2024 00:07:56 +0200</pubDate>
+      <guid>//localhost:1313/posts/suomen-mestari-1-kap-1.1/</guid>
+      <description>&lt;h2 id=&#34;sanasto&#34;&gt;Sanasto&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Finnish&lt;/th&gt;
+          &lt;th&gt;中文&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Hei!&lt;/td&gt;
+          &lt;td&gt;你好&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;ja&lt;/td&gt;
+          &lt;td&gt;和&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Tervetuloa!&lt;/td&gt;
+          &lt;td&gt;欢迎&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Anteeksi!&lt;/td&gt;
+          &lt;td&gt;对不起&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;onko&lt;/td&gt;
+          &lt;td&gt;是。。。吗？&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;täällä&lt;/td&gt;
+          &lt;td&gt;这里&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;suomen kurssi&lt;/td&gt;
+          &lt;td&gt;芬兰语课&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;joo&lt;/td&gt;
+          &lt;td&gt;是&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;olla&lt;/td&gt;
+          &lt;td&gt;be动词&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;tämä&lt;/td&gt;
+          &lt;td&gt;这个&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;paikka&lt;/td&gt;
+          &lt;td&gt;位置&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;vapaa&lt;/td&gt;
+          &lt;td&gt;空，免费&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;kiva&lt;/td&gt;
+          &lt;td&gt;好&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;minä&lt;/td&gt;
+          &lt;td&gt;我&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;kuka&lt;/td&gt;
+          &lt;td&gt;谁&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;sinä&lt;/td&gt;
+          &lt;td&gt;你&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Hauska tutustua!&lt;/td&gt;
+          &lt;td&gt;很高兴见到你&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Kiitos samoin!&lt;/td&gt;
+          &lt;td&gt;谢谢，我也一样&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Moi!&lt;/td&gt;
+          &lt;td&gt;你好！&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Mita kuuluu?&lt;/td&gt;
+          &lt;td&gt;你好吗？&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Terve!&lt;/td&gt;
+          &lt;td&gt;你好！&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Kiitos!&lt;/td&gt;
+          &lt;td&gt;谢谢！&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Minulle kuluu hyvää.&lt;/td&gt;
+          &lt;td&gt;我很好。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Enta sinulle?&lt;/td&gt;
+          &lt;td&gt;那你呢？&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ihan hyvää, kiitos.&lt;/td&gt;
+          &lt;td&gt;非常好，谢谢。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;tässä&lt;/td&gt;
+          &lt;td&gt;这&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;minun&lt;/td&gt;
+          &lt;td&gt;我的&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;nimi&lt;/td&gt;
+          &lt;td&gt;名字&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;opettaja&lt;/td&gt;
+          &lt;td&gt;老师&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Miten se kirjoitetaan?&lt;/td&gt;
+          &lt;td&gt;它怎拼写？&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;etunimi&lt;/td&gt;
+          &lt;td&gt;名&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;sukunimi&lt;/td&gt;
+          &lt;td&gt;姓&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;okei&lt;/td&gt;
+          &lt;td&gt;好&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;kurssipäivä&lt;/td&gt;
+          &lt;td&gt;上课日子&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;maanantai&lt;/td&gt;
+          &lt;td&gt;星期一&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;keskiviikko&lt;/td&gt;
+          &lt;td&gt;星期三&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;torstai&lt;/td&gt;
+          &lt;td&gt;星期四&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;kello&lt;/td&gt;
+          &lt;td&gt;时间&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;星期&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
