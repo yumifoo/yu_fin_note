@@ -1,10 +1,33 @@
-baseURL: ''
+baseURL: "https://yumifoo.github.io/yu_fin_note/"
 languageCode: en-us
 title: My Finnish notes
 theme: "PaperMod"
 
+enableInlineShortcodes: true
+enableEmoji: true
+
+minify:
+  disableXML: true
+
+outputs:
+  home:
+   - HTML
+   - RSS
+   - JSON 
+
 params:
    defaultTheme: auto
+   ShowReadingTime: true
+   ShowPostNavLinks: true
+   ShowPageNums: true
+   ShowToc: true
    homeInfoParams:
      Title: "Yu's Finnish Notes"
      Content: "Documenting my notes through my Finnish learning jorney."
+
+markup:
+  goldmark;
+    renderer:
+      unsafe: true
+    highlight:
+      moClasses: false
