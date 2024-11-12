@@ -91,10 +91,15 @@ maanantaina, tiistaina, keskiviikkona, torstaina, perjantaina, lauantaina, sunnu
 ## be 动词的人称变化
 
 minä olen / mä oon
+
 sinä olet / sä oot
+
 hän/se on /se on
+
 me olemme / me ollaan
+
 te olette / te ootte
+
 he/ne ovat / ne on
 
 ## Vowel harmonay
