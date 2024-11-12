@@ -8,6 +8,7 @@ TocOpen: false
 comments: false
 ShowReadingTime: true
 UseHugoToc: true
+draft: false
 ---
 
 ## Sanasto

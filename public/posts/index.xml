@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on My Finnish notes</title>
-    <link>//localhost:1313/posts/</link>
+    <link>http://localhost:1313/yu_fin_note/posts/</link>
     <description>Recent content in Posts on My Finnish notes</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 12 Nov 2024 00:07:56 +0200</lastBuildDate>
-    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/yu_fin_note/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Suomen Mestari 1 Kap 1.1</title>
-      <link>//localhost:1313/posts/suomen-mestari-1-kap-1.1/</link>
+      <link>http://localhost:1313/yu_fin_note/posts/suomen-mestari-1-kap-1.1/</link>
       <pubDate>Tue, 12 Nov 2024 00:07:56 +0200</pubDate>
-      <guid>//localhost:1313/posts/suomen-mestari-1-kap-1.1/</guid>
+      <guid>http://localhost:1313/yu_fin_note/posts/suomen-mestari-1-kap-1.1/</guid>
       <description>&lt;h2 id=&#34;sanasto&#34;&gt;Sanasto&lt;/h2&gt;
 &lt;table&gt;
   &lt;thead&gt;
