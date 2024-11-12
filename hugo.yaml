@@ -5,6 +5,9 @@ theme: "PaperMod"
 
 enableInlineShortcodes: true
 enableEmoji: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
 
 minify:
   disableXML: true
